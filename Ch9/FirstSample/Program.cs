@@ -10,6 +10,9 @@ namespace FirstSample
     {
         static void Main(string[] args)
         {
+
+            string x = "10";
+            Console.WriteLine(x)
         }
     }
 }
